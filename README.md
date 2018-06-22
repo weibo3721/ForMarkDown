@@ -2,3 +2,6 @@
 [itms-services://?action=download-manifest&url=https://download.zhulaoban8.com/LiMao/manifest.plist](itms-services://?action=download-manifest&url=https://download.zhulaoban8.com/LiMao/manifest.plist)
 
 
+[http://web.xianshiwl.com/bugu/ios/share.html?channel=channel_error](http://web.xianshiwl.com/bugu/ios/share.html?channel=channel_error)
+
+
