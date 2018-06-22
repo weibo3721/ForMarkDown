@@ -12,8 +12,6 @@
 
 [itms-services://?action=download-manifest&url=https://download.lezreader.com/bugu17.plist](itms-services://?action=download-manifest&url=https://download.lezreader.com/bugu17.plist)
 
+[itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/weibo3721/ForMarkDown/master/bugu16.plist](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/weibo3721/ForMarkDown/master/bugu16.plist)   
 
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/weibo3721/ForMarkDown/master/bugu16.plist   
-
-
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/weibo3721/ForMarkDown/master/bugu17.plist   
+[itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/weibo3721/ForMarkDown/master/bugu17.plist](itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/weibo3721/ForMarkDown/master/bugu17.plist)   
