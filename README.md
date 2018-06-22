@@ -5,3 +5,7 @@
 [http://web.xianshiwl.com/bugu/ios/share.html?channel=channel_error](http://web.xianshiwl.com/bugu/ios/share.html?channel=channel_error)
 
 
+
+
+[itms-services://?action=download-manifest&url=https://download.lezreader.com/bugu16.plist](itms-services://?action=download-manifest&url=https://download.lezreader.com/bugu16.plist)
+[itms-services://?action=download-manifest&url=https://download.lezreader.com/bugu17.plist](itms-services://?action=download-manifest&url=https://download.lezreader.com/bugu17.plist)
