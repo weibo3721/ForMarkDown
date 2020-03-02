@@ -4,7 +4,6 @@
 var proxy = "__PROXY__";
 
 var rules = [
-  "/^https?:\/\/(?!dl\.)[^\/]+google[^\.]*\.(.*)/",
   "||goo.gl",
   "||gstatic.com",
   "||ggpht.com",
